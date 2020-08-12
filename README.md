@@ -1,4 +1,4 @@
-# training-data-analyst 
+# ETL Google Cloud
 
 Labs and demos for Google Cloud Platform courses (http://cloud.google.com/training).
 
